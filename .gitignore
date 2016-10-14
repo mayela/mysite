@@ -1,3 +1,4 @@
 polls/*.pyc
 polls/migrations/*.pyc
 mysite/*.pyc
+venv/
